@@ -25,7 +25,7 @@ library.theme = {
     background = "rbxassetid://18694606312",
     tilesize = 90,
     cursor = true,
-    cursorimg = "https://t0.rbxcdn.com/42f66da98c40252ee151326a82aab51f",
+    cursorimg = "http://www.roblox.com/asset?id=14036808227",
     backgroundcolor = Color3.fromRGB(20, 20, 20),
     tabstextcolor = Color3.fromRGB(240, 240, 240),
     bordercolor = Color3.fromRGB(60, 60, 60),
