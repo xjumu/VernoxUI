@@ -29,6 +29,8 @@ local hs = game:GetService("HttpService")
 local ws = game:GetService("Workspace")
 local plr = plrs.LocalPlayer
 local cam = ws.CurrentCamera
+local mouse = plrs.LocalPlayer:GetMouse()
+mouse.Icon = "http://www.roblox.com/asset?id=14254345016"
 -- // indexes
 library.__index = library
 pages.__index = pages
